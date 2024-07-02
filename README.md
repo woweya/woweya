@@ -21,7 +21,7 @@ These projects I'm working on are projects yet to be finished, but they have put
 
 ![Static Badge](https://img.shields.io/badge/E_Commerce-2fc5e0?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FFake-E-Commerce)
 ![Static Badge](https://img.shields.io/badge/Blog_React-db3615?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FBlogReact)
-<a href="https://github.com/woweya/Repeat-Radio"><img alt="Static Badge" src="https://img.shields.io/badge/Repeat_Radio-7d4dd6?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FRepeat-Radio"></a>
+<a href="https://github.com/woweya/Repeat-Radio" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Repeat_Radio-7d4dd6?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FRepeat-Radio"></a>
 
 
 
