@@ -20,6 +20,12 @@
 [![Static Badge](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/)
 [![Static Badge](https://img.shields.io/badge/Livewire-purple?style=flat&logo=livewire&link=https%3A%2F%2Flivewire.laravel.com%2F)](https://livewire.laravel.com/)
 [![Static Badge](https://img.shields.io/badge/Bootstrap-450faf?style=flat&logo=Bootstrap&link=https%3A%2F%2Fgetbootstrap.com%2F)](https://getbootstrap.com/)
+[![Static Badge](https://img.shields.io/badge/Database-orange?style=flat&logo=mySQL&logoColor=white&label=mySQL&labelColor=blue&link=https%3A%2F%2Fwww.mysql.com%2F)](https://www.mysql.com/)
+[![Static Badge](https://img.shields.io/badge/Figma-a32253?style=flat&logo=Figma&link=https%3A%2F%2Fwww.mysql.com%2F)](https://figma.com)
+[![Static Badge](https://img.shields.io/badge/Trello-cyan?style=flat&logo=Trello&link=https%3A%2F%2Fwww.mysql.com%2F)](https://trello.com)
+![Static Badge](https://img.shields.io/badge/Photoshop-lightblue?style=flat&logo=adobe%20photoshop&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fphotoshop.html)
+[![Static Badge](https://img.shields.io/badge/PHP-darkblue?style=flat&logo=PHP&link=https%3A%2F%2Fwww.php.net%2F)](https://php.net)
+![Static Badge](https://img.shields.io/badge/GitBash-751911?style=flat&logo=git)
 
 ## 🌱 I’m currently learning:
 I know that technology, especially in the world of coding, is always constantly changing and when I approached the world of coding, I became interested in learning PHP Laravel, after months of projects and working on them, I was convinced to change language and choose:
@@ -27,7 +33,6 @@ I know that technology, especially in the world of coding, is always constantly 
 [![Static Badge](https://img.shields.io/badge/React-4ba5b7?logo=React&link=https%3A%2F%2Freact.dev%2F)](https://react.dev/)
 [![Static Badge](https://img.shields.io/badge/Vue-689982?logo=Vue.js&link=https%3A%2F%2Fvuejs.org%2F)](https://vuejs.org/)
 [![Static Badge](https://img.shields.io/badge/Node-377229?style=flat&logo=Node.js&link=https%3A%2F%2Fnodejs.org%2Fen)](https://nodejs.org/en)
-![Static Badge](https://img.shields.io/badge/GitBash-751911?style=flat&logo=git)
 
 
 ## 🔭 I’m currently working on:
