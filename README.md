@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Fabiano Buscemi! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-woweya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-buscemideveloper/)]([https://www.linkedin.com/in/fabiano-buscemideveloper/)])
+[![Linkedin Badge](https://img.shields.io/badge/-woweya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-buscemideveloper/)](https://www.linkedin.com/in/fabiano-buscemideveloper/)
 [![Website Badge](https://img.shields.io/badge/-woweya.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://woweya.github.io/)](https://woweya.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-@fabjanxo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/fabjanxo)](https://instagram.com/fabjanxo)
 [![Gmail Badge](https://img.shields.io/badge/fabianobuscemi1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:fabianobuscemi1@gmail.com)
