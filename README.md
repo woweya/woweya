@@ -19,7 +19,7 @@ I know that technology, especially in the world of coding, is always constantly 
 
 These projects I'm working on are projects yet to be finished, but they have put my skills as a Fullstack Web Developer to the test, despite having been major obstacles for me, with perseverance and commitment, I always try to satisfy in the best possible way. , the requests made by my customers. These projects are the current projects I'm still working on:
 
-![Static Badge](https://img.shields.io/badge/E_Commerce-2fc5e0?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FFake-E-Commerce)
+![Static Badge](https://img.shields.io/badge/E_Commerce-2fc5e0?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FFake-E-Commerce)](https://github.com/woweya/Fake-E-Commerce/)
 ![Static Badge](https://img.shields.io/badge/Blog_React-db3615?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FBlogReact)
 <a href="https://github.com/woweya/Repeat-Radio" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Repeat_Radio-7d4dd6?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FRepeat-Radio"></a>
 
