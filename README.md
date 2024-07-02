@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/fabianobuscemi1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:fabianobuscemi1@gmail.com)
 
 <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Welcome to my profile! I'm a student, aspiring to be a Web Developer and full-time adventure seeker. Im currently working as a Freelancer, to test my skills and to improve them! I'm open to work with anyone that has a good idea! Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/fabiano-buscemideveloper/)!
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=woweya&theme=radical&show_icons=true&hide_border=true&layout=compact)
 ## 🌱 I’m currently learning 
 I know that technology, especially in the world of coding, is always constantly changing and when I approached the world of coding, I became interested in learning PHP Laravel, after months of projects and working on them, I was convinced to change language and choose:
