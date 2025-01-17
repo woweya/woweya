@@ -26,22 +26,28 @@
 ![Static Badge](https://img.shields.io/badge/Photoshop-lightblue?style=flat&logo=adobe%20photoshop&link=https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fphotoshop.html)
 [![Static Badge](https://img.shields.io/badge/PHP-darkblue?style=flat&logo=PHP&link=https%3A%2F%2Fwww.php.net%2F)](https://php.net)
 ![Static Badge](https://img.shields.io/badge/GitBash-751911?style=flat&logo=git)
+![Static Badge](https://img.shields.io/badge/Symfony-00000?style=flat&logo=symfony&logoColor=black&labelColor=white&color=black&link=https%3A%2F%2Fsymfony.com%2F)
+![Static Badge](https://img.shields.io/badge/Docker-00000?style=flat&logo=docker&logoColor=1D63ED&labelColor=white&color=1D63ED&link=https%3A%2F%2Fwww.docker.com%2F)
+
+
 
 ## 🌱 I’m currently learning:
 I know that technology, especially in the world of coding, is always constantly changing and when I approached the world of coding, I became interested in learning PHP Laravel, after months of projects and working on them, I was convinced to change language and choose:
 
 [![Static Badge](https://img.shields.io/badge/React-4ba5b7?logo=React&link=https%3A%2F%2Freact.dev%2F)](https://react.dev/)
-[![Static Badge](https://img.shields.io/badge/Vue-689982?logo=Vue.js&link=https%3A%2F%2Fvuejs.org%2F)](https://vuejs.org/)
-[![Static Badge](https://img.shields.io/badge/Node-377229?style=flat&logo=Node.js&link=https%3A%2F%2Fnodejs.org%2Fen)](https://nodejs.org/en)
+![Static Badge](https://img.shields.io/badge/Symfony-00000?style=flat&logo=symfony&logoColor=black&labelColor=white&color=black&link=https%3A%2F%2Fsymfony.com%2F)
+![Static Badge](https://img.shields.io/badge/Docker-00000?style=flat&logo=docker&logoColor=1D63ED&labelColor=white&color=1D63ED&link=https%3A%2F%2Fwww.docker.com%2F)
+
+
+
 
 
 ## 🔭 I’m currently working on:
 
 These projects I'm working on are projects yet to be finished, but they have put my skills as a Fullstack Web Developer to the test, despite having been major obstacles for me, with perseverance and commitment, I always try to satisfy in the best possible way. , the requests made by my customers. These projects are the current projects I'm still working on:
 
-[![Linkedin Badge](https://img.shields.io/badge/E_Commerce-2fc5e0?style=flat&link=https://github.com/woweya/Fake-E-Commerce)](https://github.com/woweya/Fake-E-Commerce)
-[![Static Badge](https://img.shields.io/badge/Blog_React-db3615?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FBlogReact)](https://github.com/woweya/BlogReact)
-<a href="https://github.com/woweya/Repeat-Radio" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Repeat_Radio-7d4dd6?style=flat&link=https%3A%2F%2Fgithub.com%2Fwoweya%2FRepeat-Radio"></a>
+[![Linkedin Badge](https://img.shields.io/badge/E_Commerce-2fc5e0?style=flat&link=https://github.com/woweya/Fake-E-Commerce)](https://github.com/woweya/E-Commerce-symfony)
+
 
 
 
